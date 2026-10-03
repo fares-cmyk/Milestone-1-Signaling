@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1074386963980",
+    "firebase_url": "https://milestone-1-signaling-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "milestone-1-signaling",
+    "storage_bucket": "milestone-1-signaling.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074386963980:android:203088ce5093b6be5aa829",
+        "android_client_info": {
+          "package_name": "com.example.milestone_1_signaling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsVwKHmxATBcqPVhKTvKb56XYbUxojftA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
